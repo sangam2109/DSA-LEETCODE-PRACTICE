@@ -21,6 +21,8 @@ Each problem solution is stored in a separate directory inside the `problems/` d
 |----------|----------|----------|----------|
 | 19 Dec  | [Image Smoothner](https://github.com/sangam2109/DSA-LEETCODE-PRACTICE/blob/main/day%203/Image%20smoothner.cpp) | [Leetcode ](https://leetcode.com/problems/image-smoother)| Vector used | 
 | 19 Dec  | [ Maximum Subarray ](https://github.com/sangam2109/DSA-LEETCODE-PRACTICE/blob/main/day%203/Kadane's%20algorithm.cpp) | [Leetcode ](https://leetcode.com/problems/maximum-subarray/)| Kadane's algorithm  | 
+| 19 Dec  | [ Topological Sort  ](./day%203/Topological%20sort%20dfs.cpp) | [Coding Ninja](https://www.codingninjas.com/studio/problems/topological-sort_982938?topList=love-babbar-dsa-sheet-problems&leftPanelTab=0&utm_source=youtube&utm_medium=affiliate&utm_campaign=Lovebabbar&leftPanelTabValue=SUBMISSION)| DFS | 
+| 19 Dec  | [ Topological Sort  ](./day%203/Topological%20sort%20Kahn's%20algo.cpp) | [Coding Ninja](https://www.codingninjas.com/studio/problems/topological-sort_982938?topList=love-babbar-dsa-sheet-problems&leftPanelTab=0&utm_source=youtube&utm_medium=affiliate&utm_campaign=Lovebabbar&leftPanelTabValue=SUBMISSION)| Kahn's algorithm | 
 
 Feel free to explore the `problems/` directory to find the solutions to different LeetCode problems.
 
