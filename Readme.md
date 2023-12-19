@@ -19,8 +19,8 @@ Each problem solution is stored in a separate directory inside the `problems/` d
 
 | Date     | Solution | Problem URL | logic used |
 |----------|----------|----------|----------|
-| 19 Dec  | [Image Smoothner](https://leetcode.com/problems/image-smoother) | [Leetcode ](https://leetcode.com/problems/image-smoother)| Vector used | 
-| 19 Dec  | [ Maximum Subarray ](https://leetcode.com/problems/image-smoother) | [Leetcode ](https://leetcode.com/problems/maximum-subarray/)| Kadane's algorithm  | 
+| 19 Dec  | [Image Smoothner](https://github.com/sangam2109/DSA-LEETCODE-PRACTICE/blob/main/day%203/Image%20smoothner.cpp) | [Leetcode ](https://leetcode.com/problems/image-smoother)| Vector used | 
+| 19 Dec  | [ Maximum Subarray ](https://github.com/sangam2109/DSA-LEETCODE-PRACTICE/blob/main/day%203/Kadane's%20algorithm.cpp) | [Leetcode ](https://leetcode.com/problems/maximum-subarray/)| Kadane's algorithm  | 
 
 Feel free to explore the `problems/` directory to find the solutions to different LeetCode problems.
 
