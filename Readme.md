@@ -34,6 +34,7 @@ Each problem solution is stored in a separate directory inside the `problems/` d
 | 26 Dec | [ Minimum Time to Make Rope Colorful ](./day010/Minimum%20Time%20to%20Make%20Rope%20Colorful.cpp)                                                                          | [Leetcode](https://leetcode.com/problems/minimum-time-to-make-rope-colorful/description/)      | Length ad min function    
 | 27 Dec | [ String Compression II ](./day011/String%20Compression%20II.cpp)                                                                          | [Leetcode](https://leetcode.com/problems/string-compression-ii/description/)      | Dynamic Programming and Memoization  
 | 29 Dec | [ Minimum Difficulty of a Job Schedule ](./day012/Minimum%20Difficulty%20of%20a%20Job%20Schedule.cpp)                                                                          | [Leetcode](https://leetcode.com/problems/minimum-difficulty-of-a-job-schedule/description/?envType=daily-question&envId=2023-12-29)      | Dynamic Programming and Memoization  
+| 29 Dec | [ Longest Palindrome ](./day012/Longest%20Palindrome.cpp)                                                                          | [Leetcode](https://leetcode.com/problems/longest-palindrome/description/)      | PreComputation and Hashing
 
 Feel free to explore the `problems/` directory to find the solutions to different LeetCode problems.
 
