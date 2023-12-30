@@ -35,6 +35,8 @@ Each problem solution is stored in a separate directory inside the `problems/` d
 | 27 Dec | [ String Compression II ](./day011/String%20Compression%20II.cpp)                                                                          | [Leetcode](https://leetcode.com/problems/string-compression-ii/description/)      | Dynamic Programming and Memoization  
 | 29 Dec | [ Minimum Difficulty of a Job Schedule ](./day012/Minimum%20Difficulty%20of%20a%20Job%20Schedule.cpp)                                                                          | [Leetcode](https://leetcode.com/problems/minimum-difficulty-of-a-job-schedule/description/?envType=daily-question&envId=2023-12-29)      | Dynamic Programming and Memoization  
 | 29 Dec | [ Longest Palindrome ](./day012/Longest%20Palindrome.cpp)                                                                          | [Leetcode](https://leetcode.com/problems/longest-palindrome/description/)      | PreComputation and Hashing
+| 30 Dec | [ Redistribute Characters to Make All Strings Equal ](./day013/Redistribute%20Characters%20to%20Make%20All%20Strings%20Equal.cpp)                                                                          | [Leetcode](https://leetcode.com/problems/redistribute-characters-to-make-all-strings-equal/?envType=daily-question&envId=2023-12-30)      | Hashing and Array
+| 30 Dec | [ Pascal's Triangle](./day013/Pascal's%20Triangle.cpp)                                                                          | [Leetcode](https://leetcode.com/problems/pascals-triangle/description/?envType=daily-question&envId=2023-12-30)      | Dynamic Programming and Combinatorial Logic
 
 Feel free to explore the `problems/` directory to find the solutions to different LeetCode problems.
 
