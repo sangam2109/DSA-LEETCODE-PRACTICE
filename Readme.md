@@ -37,6 +37,8 @@ Each problem solution is stored in a separate directory inside the `problems/` d
 | 29 Dec | [ Longest Palindrome ](./day012/Longest%20Palindrome.cpp)                                                                          | [Leetcode](https://leetcode.com/problems/longest-palindrome/description/)      | PreComputation and Hashing
 | 30 Dec | [ Redistribute Characters to Make All Strings Equal ](./day013/Redistribute%20Characters%20to%20Make%20All%20Strings%20Equal.cpp)                                                                          | [Leetcode](https://leetcode.com/problems/redistribute-characters-to-make-all-strings-equal/?envType=daily-question&envId=2023-12-30)      | Hashing and Array
 | 30 Dec | [ Pascal's Triangle](./day013/Pascal's%20Triangle.cpp)                                                                          | [Leetcode](https://leetcode.com/problems/pascals-triangle/description/?envType=daily-question&envId=2023-12-30)      | Dynamic Programming and Combinatorial Logic
+| 31 Dec | [ Largest Substring Between Two Equal Characters](./day014/Largest%20Substring%20Between%20Two%20Equal%20Characters.cpp)                                                                          | [Leetcode](https://leetcode.com/problems/largest-substring-between-two-equal-characters/)      | Unordered map ans loops
+| 1 Jan | [  Assign Cookies ](./day015/assign%20cookies.cpp)                                                                          | [Leetcode](https://leetcode.com/problems/assign-cookies/description/?envType=daily-question&envId=2024-01-01)      | Sorting and loops
 
 Feel free to explore the `problems/` directory to find the solutions to different LeetCode problems.
 
